@@ -1,0 +1,19 @@
+.title {
+  background-color: #ffc107;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.steps {
+  display: flex;
+  align-items: baseline;
+}
+
+.steps:hover {
+  background-color: rgb(240, 240, 240);
+}
+
+.state-check {
+  text-decoration: line-through;
+  opacity: 60%;
+}

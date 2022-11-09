@@ -1,0 +1,2 @@
+- -ana yapiyi olustur
+- -reduce ü kullan
