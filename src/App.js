@@ -95,7 +95,9 @@ function App() {
           })}
         </Row>
         <Button
-          className="mt-3 p-2 pt-1 pb-1"
+          style={{ width: "120px" }}
+          className="mt-2 mb-5 p-2 pt-1 pb-1"
+          variant="danger"
           size="lg"
           onClick={() => dispatch({ type: "reset" })}
         >
